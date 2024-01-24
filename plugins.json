@@ -17,5 +17,28 @@
         "internalName": "Movierulzhd",
         "url": "https://raw.githubusercontent.com/ssk528482/new-hexated/builds/Movierulzhd.cs3",
         "name": "Movierulzhd"
+    },
+    {
+        "iconUrl": "https://cdn.discordapp.com/attachments/1109266606292488297/1193122096159674448/2-modified.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ssk528482/new-hexated",
+        "fileSize": 283233,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 219,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/ssk528482/new-hexated/builds/SoraStream.cs3",
+        "name": "SoraStream"
     }
 ]
