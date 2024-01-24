@@ -60,5 +60,25 @@
         "description": "Includes: Watchomovies(NS*W), Max resolution is 720p in both extensions.",
         "url": "https://raw.githubusercontent.com/ssk528482/new-hexated/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
+    },
+    {
+        "iconUrl": "https://media.discordapp.net/attachments/1059306855865782282/1123970193274712096/Anichi.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/ssk528482/new-hexated",
+        "fileSize": 62181,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "Anichi",
+        "url": "https://raw.githubusercontent.com/ssk528482/new-hexated/builds/Anichi.cs3",
+        "name": "Anichi"
     }
 ]
